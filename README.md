@@ -1,4 +1,4 @@
-I'm a geospatial science graduate student at Oregon State University. My background is in forestry and I'm on a journey to educate myself on all things remote sensing and computer science.
+I'm a geospatial science graduate student at Oregon State University. On a journey to learn about all things ai, remote sensing, and cs with the aim of applying them to forestry.
 
 <!---
 wherrryje/wherrryje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
